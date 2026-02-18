@@ -1,4 +1,0 @@
-[INFO] 16-02-2026 21:52:57 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:30)] - Edge Browser is opened successfully
-[INFO] 16-02-2026 21:52:58 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:32)] - Navigated to the login page successfully
-[INFO] 16-02-2026 21:52:59 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseloginTest started
-[INFO] 16-02-2026 21:53:00 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:36)] - TestCaseloginTest failed

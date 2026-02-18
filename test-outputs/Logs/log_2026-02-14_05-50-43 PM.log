@@ -1,4 +1,0 @@
-[INFO] 14-02-2026 17:50:44 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
-[INFO] 14-02-2026 17:50:45 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
-[INFO] 14-02-2026 17:50:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseclickOnCartIcon started
-[INFO] 14-02-2026 17:50:47 [main] [Pages.P02_LandingPage.verifyCartPageURL(P02_LandingPage.java:78)] - Successfully navigated to the cart page. Current URL: https://www.saucedemo.com/cart.html

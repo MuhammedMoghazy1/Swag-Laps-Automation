@@ -1,5 +1,0 @@
-[INFO] 16-02-2026 20:16:46 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
-[INFO] 16-02-2026 20:16:47 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
-[INFO] 16-02-2026 20:16:47 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseaddRandomProductsToCart started
-[INFO] 16-02-2026 20:16:47 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:42)] - Number of products on cart icon: 3
-[ERROR] 16-02-2026 20:16:47 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null

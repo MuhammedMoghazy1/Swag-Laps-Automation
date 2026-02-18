@@ -23,7 +23,7 @@ public class TC01_LoginTest {
     private String username = DataUtilits.getJsonData("ValidLogin", "username");
     private String password = DataUtilits.getJsonData("ValidLogin", "password");
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : getPropertyValue("environment", "Browser");
         setUpDriver(browser);
@@ -47,7 +47,7 @@ public class TC01_LoginTest {
     }
 
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         quitDriver();
 
