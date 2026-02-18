@@ -1,0 +1,7 @@
+[INFO] 12-02-2026 17:32:25 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 12-02-2026 17:32:26 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 12-02-2026 17:32:27 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckingNumberOfSelectedProducts started
+[INFO] 12-02-2026 17:32:28 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:25)] - Number of products on landing page: 6
+[INFO] 12-02-2026 17:32:30 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:36)] - Number of products on cart icon: 6
+[ERROR] 12-02-2026 17:32:30 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:51)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null
+[INFO] 12-02-2026 17:32:30 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:21)] - TestCasecheckingNumberOfSelectedProducts failed

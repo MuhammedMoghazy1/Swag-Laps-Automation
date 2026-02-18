@@ -1,0 +1,7 @@
+[INFO] 14-02-2026 21:04:37 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:29)] - Edge Browser is opened successfully
+[INFO] 14-02-2026 21:04:38 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:31)] - Navigated to the login page successfully
+[INFO] 14-02-2026 21:04:38 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecomparingPricesTC started
+[INFO] 14-02-2026 21:04:39 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:102)] - Total price of selected products: 029.999.99
+[INFO] 14-02-2026 21:04:39 [main] [Pages.P03_CartPage.comparePrice(P03_CartPage.java:39)] - Comparing total price of selected products with total price on cart page
+[INFO] 14-02-2026 21:04:39 [main] [Pages.P03_CartPage.getTotalPriceOfSelectedProducts(P03_CartPage.java:30)] - Total price of selected products: 39.98
+[INFO] 14-02-2026 21:04:39 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:21)] - TestCasecomparingPricesTC failed

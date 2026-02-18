@@ -1,0 +1,15 @@
+[INFO] 16-02-2026 20:15:28 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 16-02-2026 20:15:29 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 16-02-2026 20:15:29 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseaddRandomProductsToCart started
+[INFO] 16-02-2026 20:15:30 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:42)] - Number of products on cart icon: 3
+[ERROR] 16-02-2026 20:15:30 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null
+[INFO] 16-02-2026 20:15:31 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 16-02-2026 20:15:33 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 16-02-2026 20:15:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckingNumberOfSelectedProducts started
+[INFO] 16-02-2026 20:15:33 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:31)] - Number of products on landing page: 6
+[INFO] 16-02-2026 20:15:34 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:42)] - Number of products on cart icon: 6
+[ERROR] 16-02-2026 20:15:34 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null
+[INFO] 16-02-2026 20:15:35 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 16-02-2026 20:15:37 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 16-02-2026 20:15:37 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseclickOnCartIcon started
+[INFO] 16-02-2026 20:15:37 [main] [Pages.P02_LandingPage.verifyCartPageURL(P02_LandingPage.java:80)] - Successfully navigated to the cart page. Current URL: https://www.saucedemo.com/cart.html

@@ -1,0 +1,15 @@
+[INFO] 15-02-2026 14:59:45 [main] [Tests.TC05_CheckOutOverviewTest.setUp(TC05_CheckOutOverviewTest.java:55)] - Browser opened successfully
+[INFO] 15-02-2026 14:59:46 [main] [Tests.TC05_CheckOutOverviewTest.setUp(TC05_CheckOutOverviewTest.java:58)] - Navigated to Login Page successfully
+[INFO] 15-02-2026 14:59:46 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckOutStepTwoTC started
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P03_CartPage.clickOnCheckoutButton(P03_CartPage.java:48)] - Clicked on checkout button
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.compareCalculatedTotalWithDisplayedTotal(P05_CheckoutOverviewPage.java:39)] - Comparing calculated total with displayed total
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $5.28
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.calculateTotal(P05_CheckoutOverviewPage.java:34)] - Calculated total value: 71.26
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $5.28
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.getTotal(P05_CheckoutOverviewPage.java:29)] - Displayed total value: Total: $71.26
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.compareCalculatedTotalWithDisplayedTotal(P05_CheckoutOverviewPage.java:39)] - Comparing calculated total with displayed total
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $5.28
+[INFO] 15-02-2026 14:59:47 [main] [Pages.P05_CheckoutOverviewPage.calculateTotal(P05_CheckoutOverviewPage.java:34)] - Calculated total value: 71.26
+[INFO] 15-02-2026 14:59:48 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $5.28
+[INFO] 15-02-2026 14:59:48 [main] [Pages.P05_CheckoutOverviewPage.getTotal(P05_CheckoutOverviewPage.java:29)] - Displayed total value: Total: $71.26
+[INFO] 15-02-2026 14:59:48 [main] [Tests.TC05_CheckOutOverviewTest.tearDown(TC05_CheckOutOverviewTest.java:93)] - Browser closed successfully

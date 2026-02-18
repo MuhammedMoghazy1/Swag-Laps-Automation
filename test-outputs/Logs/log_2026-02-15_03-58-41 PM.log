@@ -1,0 +1,57 @@
+[INFO] 15-02-2026 15:58:41 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:28)] - Edge Browser is opened successfully
+[INFO] 15-02-2026 15:58:42 [main] [Tests.TC01_LoginTest.setUp(TC01_LoginTest.java:30)] - Navigated to the login page successfully
+[INFO] 15-02-2026 15:58:43 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseloginTest started
+[INFO] 15-02-2026 15:58:44 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 15-02-2026 15:58:46 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 15-02-2026 15:58:46 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseaddRandomProductsToCart started
+[INFO] 15-02-2026 15:58:46 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:42)] - Number of products on cart icon: 3
+[ERROR] 15-02-2026 15:58:46 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null
+[INFO] 15-02-2026 15:58:48 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 15-02-2026 15:58:49 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 15-02-2026 15:58:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckingNumberOfSelectedProducts started
+[INFO] 15-02-2026 15:58:50 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:31)] - Number of products on landing page: 6
+[INFO] 15-02-2026 15:58:50 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:42)] - Number of products on cart icon: 6
+[ERROR] 15-02-2026 15:58:50 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:57)] - Cannot invoke "java.util.List.size()" because "Pages.P02_LandingPage.selectedProducts" is null
+[INFO] 15-02-2026 15:58:51 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:29)] - Edge Browser is opened successfully
+[INFO] 15-02-2026 15:58:53 [main] [Tests.TC02_LandingTest.setUp(TC02_LandingTest.java:31)] - Navigated to the login page successfully
+[INFO] 15-02-2026 15:58:53 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCaseclickOnCartIcon started
+[INFO] 15-02-2026 15:58:53 [main] [Pages.P02_LandingPage.verifyCartPageURL(P02_LandingPage.java:80)] - Successfully navigated to the cart page. Current URL: https://www.saucedemo.com/cart.html
+[INFO] 15-02-2026 15:58:55 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:29)] - Edge Browser is opened successfully
+[INFO] 15-02-2026 15:58:55 [main] [Tests.TC03_CartTest.setUp(TC03_CartTest.java:31)] - Navigated to the login page successfully
+[INFO] 15-02-2026 15:58:55 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecomparingPricesTC started
+[INFO] 15-02-2026 15:58:56 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:102)] - Total price of selected products: 45.98
+[INFO] 15-02-2026 15:58:56 [main] [Pages.P03_CartPage.comparePrice(P03_CartPage.java:41)] - Comparing total price of selected products with total price on cart page
+[INFO] 15-02-2026 15:58:56 [main] [Pages.P03_CartPage.getTotalPriceOfSelectedProducts(P03_CartPage.java:32)] - Total price of selected products: 45.98
+[INFO] 15-02-2026 15:58:57 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:58)] - Browser opened successfully
+[INFO] 15-02-2026 15:58:59 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:61)] - Navigated to Login Page successfully
+[INFO] 15-02-2026 15:58:59 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckOutStepTC started
+[INFO] 15-02-2026 15:58:59 [main] [Pages.P03_CartPage.clickOnCheckoutButton(P03_CartPage.java:48)] - Clicked on checkout button
+[INFO] 15-02-2026 15:59:00 [main] [Utilities.Utility.verifyURL(Utility.java:100)] - Successfully navigated to the cart page. Current URL: https://www.saucedemo.com/checkout-step-two.html
+[INFO] 15-02-2026 15:59:00 [main] [Tests.TC04_CheckOutTest.tearDown(TC04_CheckOutTest.java:94)] - Browser closed successfully
+[INFO] 15-02-2026 15:59:01 [main] [Tests.TC05_CheckOutOverviewTest.setUp(TC05_CheckOutOverviewTest.java:55)] - Browser opened successfully
+[INFO] 15-02-2026 15:59:02 [main] [Tests.TC05_CheckOutOverviewTest.setUp(TC05_CheckOutOverviewTest.java:58)] - Navigated to Login Page successfully
+[INFO] 15-02-2026 15:59:02 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckOutStepTwoTC started
+[INFO] 15-02-2026 15:59:03 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:31)] - Number of products on landing page: 6
+[INFO] 15-02-2026 15:59:03 [main] [Pages.P03_CartPage.clickOnCheckoutButton(P03_CartPage.java:48)] - Clicked on checkout button
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.compareCalculatedTotalWithDisplayedTotal(P05_CheckoutOverviewPage.java:39)] - Comparing calculated total with displayed total
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.calculateTotal(P05_CheckoutOverviewPage.java:34)] - Calculated total value: 140.34
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTotal(P05_CheckoutOverviewPage.java:29)] - Displayed total value: Total: $140.34
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.compareCalculatedTotalWithDisplayedTotal(P05_CheckoutOverviewPage.java:39)] - Comparing calculated total with displayed total
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.calculateTotal(P05_CheckoutOverviewPage.java:34)] - Calculated total value: 140.34
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:04 [main] [Pages.P05_CheckoutOverviewPage.getTotal(P05_CheckoutOverviewPage.java:29)] - Displayed total value: Total: $140.34
+[INFO] 15-02-2026 15:59:04 [main] [Tests.TC05_CheckOutOverviewTest.tearDown(TC05_CheckOutOverviewTest.java:93)] - Browser closed successfully
+[INFO] 15-02-2026 15:59:05 [main] [Tests.TC06_finshingOrderTest.setUp(TC06_finshingOrderTest.java:54)] - Browser opened successfully
+[INFO] 15-02-2026 15:59:07 [main] [Tests.TC06_finshingOrderTest.setUp(TC06_finshingOrderTest.java:57)] - Navigated to Login Page successfully
+[INFO] 15-02-2026 15:59:07 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasefinshOrderTC started
+[INFO] 15-02-2026 15:59:07 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:31)] - Number of products on landing page: 6
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P03_CartPage.clickOnCheckoutButton(P03_CartPage.java:48)] - Clicked on checkout button
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P05_CheckoutOverviewPage.compareCalculatedTotalWithDisplayedTotal(P05_CheckoutOverviewPage.java:39)] - Comparing calculated total with displayed total
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P05_CheckoutOverviewPage.calculateTotal(P05_CheckoutOverviewPage.java:34)] - Calculated total value: 140.34
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P05_CheckoutOverviewPage.getTax(P05_CheckoutOverviewPage.java:24)] - Displayed tax value: Tax: $10.40
+[INFO] 15-02-2026 15:59:08 [main] [Pages.P05_CheckoutOverviewPage.getTotal(P05_CheckoutOverviewPage.java:29)] - Displayed total value: Total: $140.34
+[INFO] 15-02-2026 15:59:09 [main] [Tests.TC06_finshingOrderTest.tearDown(TC06_finshingOrderTest.java:96)] - Browser closed successfully

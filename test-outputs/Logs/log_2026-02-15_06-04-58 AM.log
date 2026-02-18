@@ -1,0 +1,6 @@
+[INFO] 15-02-2026 06:04:59 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:58)] - Browser opened successfully
+[INFO] 15-02-2026 06:04:59 [main] [Tests.TC04_CheckOutTest.setUp(TC04_CheckOutTest.java:61)] - Navigated to Login Page successfully
+[INFO] 15-02-2026 06:05:00 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - TestCasecheckOutStepTC started
+[INFO] 15-02-2026 06:05:02 [main] [Pages.P03_CartPage.clickOnCheckoutButton(P03_CartPage.java:48)] - Clicked on checkout button
+[INFO] 15-02-2026 06:05:03 [main] [Utilities.Utility.verifyURL(Utility.java:100)] - Successfully navigated to the cart page. Current URL: https://www.saucedemo.com/checkout-step-two.html
+[INFO] 15-02-2026 06:05:03 [main] [Tests.TC04_CheckOutTest.tearDown(TC04_CheckOutTest.java:95)] - Browser closed successfully
